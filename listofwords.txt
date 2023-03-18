@@ -1,0 +1,10 @@
+hello
+
+you
+# commment
+are
+a
+
+cool
+person
+# if this is seen you are dead?
